@@ -560,7 +560,7 @@
     <!-- == OpenPDF == -->
     <openpdf.version>1.0.5</openpdf.version>
     <!-- == Apache POI == -->
-    <poi.version>4.1.1</poi.version>
+    <poi.version>3.17</poi.version>
     <!-- == Apache Tiles == -->
     <tiles.version>3.0.8</tiles.version>
     <!-- == Other JavaEE/SE APIs == -->
